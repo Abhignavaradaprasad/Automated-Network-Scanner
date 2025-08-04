@@ -1,7 +1,5 @@
 # Network Packet Detector
 
-Python Scapy License
-
 A powerful and customizable network packet sniffer and intrusion detection script built with Python and Scapy. This tool analyzes network traffic in real-time to detect a variety of suspicious activities, including port scans, SYN floods, brute-force attacks, and common web application exploits.
 
 Features
